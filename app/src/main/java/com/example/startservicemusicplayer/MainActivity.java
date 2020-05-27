@@ -14,7 +14,7 @@ package com.example.startservicemusicplayer;
 // 通過直接實例化IntentFilter對象創建。
 //7.準備廣播接受,將收到的參數設定在SeekBar
 //8.在OnStart時註冊廣播並且用Intent filter
-
+//
 //====================================以上為Activity進度跳隨著音樂跑動流程
 
 import androidx.appcompat.app.AppCompatActivity;
